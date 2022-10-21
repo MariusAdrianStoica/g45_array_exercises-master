@@ -15,7 +15,7 @@ public class Exercise02 {
     public static int indexOf() {
 
         int[] numbers = {4, 9, 5, 3, 2, 8};
-        int element = 7;
+        int element = 5;
         int index = -1;
         System.out.println();
         for (int i = 0; i < numbers.length; i++) {
